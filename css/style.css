@@ -1,0 +1,59 @@
+.btn-primary{
+	background-color: rgb(126, 198, 210);
+}
+
+#services{
+	background-color: rgb(89, 114, 89);
+	color: #fff;
+}
+
+.col-lg-12{
+	color: #fff;
+}
+
+footer{
+    background-color: rgb(129, 162, 128);
+}
+
+
+body{
+    background-color: rgb(129, 162, 128);
+}
+
+p{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 22px;
+}
+
+#services img{
+	max-width: 100%;
+}
+
+
+header.masthead {
+    background-image: url(../img/sommarboksmysteriet.jpg);
+    height: 100vh;
+}
+
+
+mark {
+	background-color: rgb(89, 114, 89);
+	color: white;
+  }
+
+
+  .uppgift-box {
+    background-color: #495D48;
+    border: 2px rgb(129, 162, 128) solid;
+    padding: 15px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+
+.card {
+    background-color: rgb(89, 114, 89);
+    border: 2px rgb(129, 162, 128) solid;
+    padding: 15px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
